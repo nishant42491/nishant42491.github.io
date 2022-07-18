@@ -49,6 +49,9 @@ Skills
 * latex
 * django
 * html/css
+* Huggingface
+* nltk
+
 
 Publications
 ======
