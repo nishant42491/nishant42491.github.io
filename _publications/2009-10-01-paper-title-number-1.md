@@ -2,7 +2,7 @@
 title: "Modelling Veracity of Football Player Trade Rumours on Twitter Using Naive Bayes Algorithm"
 collection: publications
 permalink: https://ieeexplore.ieee.org/document/9670932
-excerpt: 'Twitter today has become one of the most influential social media application in our world.'
+excerpt: ''
 date: 2002-01-10
 venue: '2021 International Conference on Artificial Intelligence and Machine Vision (AIMV)'
 paperurl: ''
