@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Nishant Rajadhyaksha"
-  avatar           : "profile.png"
+  avatar           : "Nishant_Picture.jpeg"
   bio              : "Machine Learning Engineer"
-  location         : "Location"
+  location         : "Mumbai"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
