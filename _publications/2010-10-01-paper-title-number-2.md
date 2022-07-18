@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "TLA(Twitter Linguistic Analysis)"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://www.ijcseonline.org/full_paper_view.php?paper_id=5375#parentHorizontalTab1
+excerpt: ''
+date: 2021-07-01
+venue: 'International Journal of
+Computer Sciences and Engineering'
+paperurl: ''
+citation: 'Tushar Sarkar, Nishant Rajadhyaksha, “TLA: Twitter Linguistic Analysis,” International Journal of Computer Sciences and Engineering, Vol.9, Issue.8, pp.34-37, 2021.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
