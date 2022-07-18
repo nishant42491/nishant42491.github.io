@@ -67,5 +67,5 @@ Service and leadership
   * Organised several workshops aimed at presenting several data science concepts to students.
   * Organised hackathon for data science workflows.
   
-* Currently serving as ouncil ead for DataZen(data science council of KJSCE)
+* Currently serving as council head for DataZen(data science council of KJSCE)
   * Manage the day-to-day functionalities of the council.
