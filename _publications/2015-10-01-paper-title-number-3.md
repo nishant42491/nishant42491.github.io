@@ -1,7 +1,7 @@
 ---
 title: "Application of an SCG(Self-Graph Constructing Network) for Brain Hemorrhage Segmentation."
 collection: publications
-permalink: https://arxiv.org/abs/2202.068
+permalink: https://arxiv.org/abs/2202.06876
 excerpt: ''
 date: 2022-02-04
 venue: 'Arxiv.org'
