@@ -16,6 +16,6 @@ My current research interests lie in the field of geometric deep learning. I hav
 
 I love exploring new domains in machine learning research and am always up for collaborations.
 
-When I am not codimg you can find me playing football or enjoying a good non-fiction book. I love watching Manchester City play and follow thier games religiously.
+When I am not coding you can find me playing football or enjoying a good non-fiction book. I love watching Manchester City play and follow thier games religiously.
 
 
