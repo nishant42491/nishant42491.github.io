@@ -60,12 +60,12 @@ Publications
 Service and leadership
 ======
 * Served as a member of the technical team of Computer Society of India(KJSCE chapter) 
-  * Public Speaking at several workshops aimed at developing user skill
-  * Organised Regional-Smart-India-Hackathon 
+  * Public Speaking at several workshops aimed at developing user skill.
+  * Organised Regional-Smart-India-Hackathon.
 
-*Served as a member of the technical team of DataZen(data science council of KJSCE)
-  *organised several workshops aimed at presenting several dat science concepts to students
-  *organised hackathon for data science workflows
+* Served as a member of the technical team of DataZen(data science council of KJSCE)
+  * Organised several workshops aimed at presenting several data science concepts to students.
+  * Organised hackathon for data science workflows.
   
 * Currently serving as ouncil ead for DataZen(data science council of KJSCE)
-  * manage the day-to-day functionalities of the council.
+  * Manage the day-to-day functionalities of the council.
