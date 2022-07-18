@@ -38,31 +38,34 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Machine Learning:-
+  * Pytorch
+  * pytorch-geometric
+  * pytorch-lightning
+* C++
+* SQL
+* C
+* latex
+* django
+* html/css
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+    
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Served as a member of the technical team of Computer Society of India(KJSCE chapter) 
+  * Public Speaking at several workshops aimed at developing user skill
+  * Organised Regional-Smart-India-Hackathon 
+
+*Served as a member of the technical team of DataZen(data science council of KJSCE)
+  *organised several workshops aimed at presenting several dat science concepts to students
+  *organised hackathon for data science workflows
+  
+* Currently serving as ouncil ead for DataZen(data science council of KJSCE)
+  * manage the day-to-day functionalities of the council.
