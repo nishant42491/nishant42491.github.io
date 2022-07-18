@@ -11,20 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.Tech Computer Science Engineering
+* B.Tech Computer Science Engineering - cgpa 9.4(out of 10)
   * K.J Somaiya College of Engineering (2024)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2022-Current: Research Assistant
+  * Remote-Sensing for sugarcane crop classification
+  * Duties included: Integrating novel deep learning measures for sugarcane detection using sentinel-2 data
+  * Supervisor: Proffesor Mansi Kambli (mansi.mk@somaiya.edu)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2021 - June 2022: Business Process Automation / Machine Learning Engineer Intern
+  * Mettler Toledo
+  * Duties included: Using different NLP algorithms to help automate different business workflows.
+  * Supervisor: Chetan Dhawan (chetan.dhawan@mtgbsi.com)
+
+* October 2021 - December 2021: Mentor
+  * Analytica
+  * Duties Included: Mentoring Different Python projects including full stack machine learning.
+  * Supervisor: Tushar Sarkar (tushar.sarkar@somaiya.edu)
+
+* April 2021 - July 2021: Backend Developer Intern
+  * Aloyt
+  * Duties included: Creating different backend applications using django, flutter, flask.
+  * Supervisor: Kunal Dhawan(kd@aloyt.com)
   
 Skills
 ======
