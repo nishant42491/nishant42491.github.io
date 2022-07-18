@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nishant"
-  avatar           : "Nishant_Picture.jpeg"
+  name             : 
+  avatar           : 
   bio              : "Machine Learning Engineer"
   location         : "Mumbai"
   employer         :
