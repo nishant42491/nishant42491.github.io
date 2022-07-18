@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Tech K.J Somaiya College of Engineering (2024)
+* B.Tech Computer Science Engineering
+  * K.J Somaiya College of Engineering (2024)
 
 Work experience
 ======
