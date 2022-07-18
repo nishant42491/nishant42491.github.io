@@ -38,7 +38,7 @@ Latest commit 5a8a8db on Apr 15, 2019
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
