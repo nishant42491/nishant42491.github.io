@@ -1,15 +1,27 @@
 ---
-title: "Paper Title Number 3"
+title: "Application of an SCG(Self-Graph Constructing Network) for Brain Hemorrhage Segmentation."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: https://arxiv.org/abs/2202.068
+excerpt: ''
+date: 2022-02-04
+venue: 'Arxiv.org'
+paperurl: ''
+citation: '@misc{https://doi.org/10.48550/arxiv.2202.06876,
+  doi = {10.48550/ARXIV.2202.06876},
+  
+  url = {https://arxiv.org/abs/2202.06876},
+  
+  author = {Mehendale, Dr. Ninad and Gupta, Pragya and Rajadhyaksha, Nishant and Dagha, Ansh and Hundiwala, Mihir and Paretkar, Aditi and Chavan, Sakshi and Mishra, Tanmay},
+  
+  keywords = {Image and Video Processing (eess.IV), Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG), FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {A Graphical Approach For Brain Haemorrhage Segmentation},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
