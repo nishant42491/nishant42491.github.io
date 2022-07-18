@@ -19,7 +19,7 @@ Work experience
 * April 2022-Current: Research Assistant
   * Remote-Sensing for sugarcane crop classification
   * Duties included: Integrating novel deep learning measures for sugarcane detection using sentinel-2 data
-  * Supervisor: Proffesor Mansi Kambli (mansi.mk@somaiya.edu)
+  * Supervisor: Professor Mansi Kambli (mansi.mk@somaiya.edu)
 
 * December 2021 - June 2022: Business Process Automation / Machine Learning Engineer Intern
   * Mettler Toledo
