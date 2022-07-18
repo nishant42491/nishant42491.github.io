@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@nishant42491 
-academicpages
-/
-academicpages.github.io
-Public
-Code
-Issues
-145
-Pull requests
-176
-Actions
-Projects
-Wiki
-Security
-Insights
-academicpages.github.io/_config.yml
-@ning-y
-ning-y Add vendor as excluded dir
-Latest commit 5a8a8db on Apr 15, 2019
- History
- 7 contributors
-@staeiou@tlcaputi@a-paxton@ning-y@luismmontilla@jacobtfisher@aki-nishimura
-311 lines (285 sloc)  7.92 KB
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -38,13 +7,13 @@ Latest commit 5a8a8db on Apr 15, 2019
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Ansh Khurana"
 title_separator          : "-"
-name                     : &name "Nishant Rajadhyaksha"
-description              : &description "A Manchester City fan who loves to code"
-url                      : https://nishant42491.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ansh Khurana"
+description              : &description "Pre-Doctoral Researcher at Google Research India."
+url                      : "https://anshkhurana.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nishant42491/nishant42491.github.io"
+repository               : "anshkhurana/anshkhurana.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -88,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "AnshKhurana11"
 facebook:
   username               :
   app_id                 :
@@ -104,21 +73,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-161514022-1"
 
 
 # Site Author
 author:
-  name             : "Nishant Rajadhyaksha"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Ansh Khurana"
+  avatar           : "profile.jpg"
+  bio              : "Pre-Doctoral Researcher @GoogleAI"
+  location         : "Bangalore, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=2mWM1ZkAAAAJ"
+  email            : "anshkhurana@google.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -127,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "AnshKhurana"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "anshkhurana1507"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackexchange    : "/users/12682680/ansh-khurana" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -207,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -292,14 +261,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
@@ -340,17 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
