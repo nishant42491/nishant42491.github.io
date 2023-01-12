@@ -16,6 +16,13 @@ Education
 
 Work experience
 ======
+
+* June 2023 - September 2023: Visiting Researcher at Queens University Canada
+  * Mitacs Globalinks Scholarship
+  * Will work on the topic "Modelling clinical responce in DLBCL using graph neural networks"
+  * Supervisor: Professor Kathryn Tyryshkin (Email:-kt40@queensu.ca)
+
+
 * April 2022-Current: Research Assistant
   * Remote-Sensing for sugarcane crop classification
   * Duties included: Integrating novel deep learning measures for sugarcane detection using sentinel-2 data
