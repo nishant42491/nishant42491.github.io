@@ -19,11 +19,16 @@ Work experience
 
 * June 2023 - September 2023: Visiting Researcher at Queens University Canada
   * Mitacs Globalinks Scholarship
-  * Will work on the topic "Modelling clinical responce in DLBCL using graph neural networks"
+  * Research on the topic "Modelling clinical response for SCLC (small cell lung cancer) using graph neural networks"
   * Supervisor: Professor Kathryn Tyryshkin (Email:-kt40@queensu.ca)
+ 
+* January 2023 - May 2023: Research Intern at Basira Labs
+  * Supervised by Dr Islem Rekik (i.rekik@imperial.ac.uk)
+  * Research on the topic "Connectomic super-resolution via diffusion"
+  * workshop paper under review at PRIME workshop at MICCAI 2023.
 
 
-* April 2022-Current: Research Assistant
+* April 2022-April 2023: Research Assistant
   * Remote-Sensing for sugarcane crop classification
   * Duties included: Integrating novel deep learning measures for sugarcane detection using sentinel-2 data
   * Supervisor: Professor Mansi Kambli (mansi.mk@somaiya.edu)
