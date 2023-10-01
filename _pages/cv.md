@@ -1,86 +1,11 @@
 ---
-layout: archive
-title: "CV"
+layout: cv
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: cv
+nav: true
+nav_order: 4
+cv_pdf: example_pdf.pdf
+description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
 ---
-
-{% include base_path %}
-
-Education
-======
-* B.Tech Computer Science Engineering - cgpa 9.4(out of 10)
-  * K.J Somaiya College of Engineering (2024)
-
-Work experience
-======
-
-* June 2023 - September 2023: Visiting Researcher at Queens University Canada
-  * Mitacs Globalinks Scholarship
-  * Research on the topic "Modelling clinical response for SCLC (small cell lung cancer) using graph neural networks"
-  * Supervisor: Professor Kathryn Tyryshkin (Email:-kt40@queensu.ca)
- 
-* January 2023 - May 2023: Research Intern at Basira Labs
-  * Supervised by Dr Islem Rekik (i.rekik@imperial.ac.uk)
-  * Research on the topic "Connectomic super-resolution via diffusion"
-  * workshop paper under review at PRIME workshop at MICCAI 2023.
-
-
-* April 2022-April 2023: Research Assistant
-  * Remote-Sensing for sugarcane crop classification
-  * Duties included: Integrating novel deep learning measures for sugarcane detection using sentinel-2 data
-  * Supervisor: Professor Mansi Kambli (mansi.mk@somaiya.edu)
-
-* December 2021 - June 2022: Business Process Automation / Machine Learning Engineer Intern
-  * Mettler Toledo
-  * Duties included: Using different NLP algorithms to help automate different business workflows.
-  * Supervisor: Chetan Dhawan (chetan.dhawan@mtgbsi.com)
-
-* October 2021 - December 2021: Mentor
-  * Analytica
-  * Duties Included: Mentoring Different Python projects including full stack machine learning.
-  * Supervisor: Tushar Sarkar (tushar.sarkar@somaiya.edu)
-
-* April 2021 - July 2021: Backend Developer Intern
-  * Aloyt
-  * Duties included: Creating different backend applications using django, flutter, flask.
-  * Supervisor: Kunal Dhawan(kd@aloyt.com)
-  
-Skills
-======
-* Python
-* Machine Learning:-
-  * Pytorch
-  * pytorch-geometric
-  * pytorch-lightning
-* C++
-* SQL
-* C
-* latex
-* django
-* html/css
-* Huggingface
-* nltk
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-    
-  
-Service and leadership
-======
-* Served as a member of the technical team of Computer Society of India(KJSCE chapter) 
-  * Public Speaking at several workshops aimed at developing user skill.
-  * Organised Regional-Smart-India-Hackathon.
-
-* Served as a member of the technical team of DataZen(data science council of KJSCE)
-  * Organised several workshops aimed at presenting several data science concepts to students.
-  * Organised hackathon for data science workflows.
-  
-* Currently serving as council head for DataZen(data science council of KJSCE)
-  * Manage the day-to-day functionalities of the council.
