@@ -1,9 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nishant42491
 
 github_repos:
-  - alshedivat/al-folio
+  - tusharsarkar3/TLA
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
