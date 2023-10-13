@@ -3,9 +3,4 @@ github_users:
 
 github_repos:
   - tusharsarkar3/TLA
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - basiralab/Dif-GSR.git
